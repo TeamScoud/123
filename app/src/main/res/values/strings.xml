@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application12</string>
+
+    <array name="subjects">
+        <item>English</item>
+        <item>Mathematics</item>
+        <item>Science</item>
+        <item>Civics</item>
+        <item>Logic</item>
+    </array>
+
+    <array name="modes">
+        <item>ZOOM</item>
+        <item>MS Teams</item>
+
+    </array>
+</resources>
